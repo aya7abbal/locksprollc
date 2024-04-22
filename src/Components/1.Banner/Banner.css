@@ -1,0 +1,13 @@
+.banner-photo-container #banner-img {
+  margin: 2rem;
+  border-radius: 20px;
+  width: 90%;
+}
+
+@media (min-width: 1023px) {
+  .banner-photo-container #banner-img {
+    width: 98%;
+    height: auto;
+  }
+}
+/*# sourceMappingURL=Banner.css.map */
